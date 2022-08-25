@@ -1,0 +1,7 @@
+Proceso tabla_del_dos
+	Definir x,y1 Como Entero;
+	Para x<-1 Hasta 10 Con Paso 1 Hacer
+		y1<-x*2;
+		Escribir "2x", x, "=", y1;
+	FinPara
+FinProceso
